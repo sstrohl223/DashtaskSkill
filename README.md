@@ -1,5 +1,3 @@
-# DashtaskSkill
-Task management and CRM built for You, Your Bots and Other Team members to collaborate on tasks, crm and dashboards. 
 # DashTask Skill for OpenClaw
 
 ![Version](https://img.shields.io/badge/version-1.9.1-blue)
@@ -255,9 +253,3 @@ update_task            → mark tasks as done
 - **SKILL.md** (API Reference) — [View SKILL.md](./SKILL.md)
 - **clawfile.json** (Manifest) — [View clawfile.json](./clawfile.json)
 - **ChatGPT OAuth Setup** — DashTask also supports a separate OAuth-based integration for ChatGPT GPT Builder. See the `/dashtask-gpt-oauth/` directory in the main DashTask project for that setup.
-
----
-
-## License
-
-MIT — see [LICENSE](./LICENSE) for details.
